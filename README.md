@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @csvarunn
 - 👀 I’m interested in SAP Business OBjects
 - 🌱 I’m currently learning WEBI reports
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on more projects woth various Technologies and developing an Applications...
 - 📫 How to reach me on Whatsapp +917358006938
 
 <!---
